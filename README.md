@@ -33,8 +33,9 @@ pip install pandas scikit-learn
 2. Certifique-se de que o arquivo clientes.csv esteja no mesmo diretório do script.
 
 3. Execute o script Python:
-
+```bash
 python score_predict.py
+```
 
 
 Feito com Python por Nathan Lopes
