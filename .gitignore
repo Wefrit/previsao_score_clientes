@@ -1,0 +1,24 @@
+# Ignorar arquivos de cache do Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignorar arquivos temporários de editores
+*.swp
+*.bak
+*.tmp
+
+# Ignorar arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Ignorar ambientes virtuais
+env/
+venv/
+.venv/
+
+# Ignorar variáveis de ambiente e configurações locais
+.env
+
+# Ignorar configurações do PyCharm (opcional)
+.idea/
