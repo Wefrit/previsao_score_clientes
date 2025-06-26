@@ -6,7 +6,7 @@ Este projeto utiliza **Python**, **pandas** e **scikit-learn** para treinar um m
 
 ## 🧠 Tecnologias Utilizadas
 
-- Python 3.x
+- Python 3.13
 - pandas
 - scikit-learn
 
