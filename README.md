@@ -1,6 +1,7 @@
 # 🔍 Previsão de Score de Crédito com Machine Learning
 
 Este projeto utiliza **Python**, **pandas** e **scikit-learn** para treinar um modelo de machine learning capaz de prever o score de crédito de novos clientes com base em características como profissão, idade, renda, e estado civil.
+Projeto baseado em curso da hashtag treinamentos.
 
 ---
 
